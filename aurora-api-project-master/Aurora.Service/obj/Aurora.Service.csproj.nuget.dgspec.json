@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Service\\Aurora.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+        "projectName": "Aurora.Domain",
+        "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj",
+        "packagesPath": "C:\\Users\\Fernando G. da Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando G. da Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Infra.Data\\Aurora.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Infra.Data\\Aurora.Infra.Data.csproj",
+        "projectName": "Aurora.Infra.Data",
+        "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Infra.Data\\Aurora.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Fernando G. da Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando G. da Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj": {
+                "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.69.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Service\\Aurora.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Service\\Aurora.Service.csproj",
+        "projectName": "Aurora.Service",
+        "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Service\\Aurora.Service.csproj",
+        "packagesPath": "C:\\Users\\Fernando G. da Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando G. da Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj": {
+                "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj"
+              },
+              "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Infra.Data\\Aurora.Infra.Data.csproj": {
+                "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Infra.Data\\Aurora.Infra.Data.csproj"
+              },
+              "C:\\Workspace\\.net\\aurora-api-project-master\\Infra.Shared\\Infra.Shared.csproj": {
+                "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Infra.Shared\\Infra.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Workspace\\.net\\aurora-api-project-master\\Infra.Shared\\Infra.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\.net\\aurora-api-project-master\\Infra.Shared\\Infra.Shared.csproj",
+        "projectName": "Infra.Shared",
+        "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Infra.Shared\\Infra.Shared.csproj",
+        "packagesPath": "C:\\Users\\Fernando G. da Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Infra.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fernando G. da Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj": {
+                "projectPath": "C:\\Workspace\\.net\\aurora-api-project-master\\Aurora.Domain\\Aurora.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.deps.json
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.json
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.dev.json
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csprojAssemblyReference.cache
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfoInputs.cache
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfo.cs
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CopyComplete
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+C:\Workspace\.net\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.genruntimeconfig.cache
